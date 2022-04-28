@@ -1,0 +1,16 @@
+A E 86
+E а 40
+F B 87
+B C 81
+C D 83
+D E 8
+E B 20
+B C 81
+C E 41
+E H 54
+H G 18
+G F 89
+F A 94
+A G 51
+G H 18
+H A 82
